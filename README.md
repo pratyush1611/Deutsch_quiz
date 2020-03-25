@@ -11,6 +11,10 @@ presentation needs to be improved
 
 -> other option of having an artikel quiz
 
+-> a quiz option for trennbar verbs too
+
+-> or verbs only or nouns only
+
 -> or a reverse quiz for given word in english find german word
 
 -> another future plan is to mix it along with kivy and form an android app of the same
